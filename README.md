@@ -1,2 +1,2 @@
 # slide2
-[DEMO LINK]()
+[DEMO LINK](https://mishtal-andrii.github.io/slide2/.)
